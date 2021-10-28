@@ -1,0 +1,6 @@
+{
+    "appService.defaultWebAppToDeploy": "",
+    "appService.deploySubpath": ".",
+    "python.pythonPath": "/Users/chinmay/opt/anaconda3/envs/basic/bin/python",
+    "appService.showBuildDuringDeployPrompt": false
+}
